@@ -2,7 +2,7 @@
   "name": "liberusoftware/real-estate-sales-progression-filament",
   "description": "Filament 5 adapter for real-estate sales progression.",
   "type": "liberu-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "require": {
     "php": "^8.5",
